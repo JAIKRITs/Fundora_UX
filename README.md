@@ -8,4 +8,4 @@ For a comprehensive look at the Fundora Mobile app's user interface and user exp
 
 - **Figma Prototype:**  
   Interact with the clickable prototype to experience the app flow and animations.  
-  [View Prototype on Figma](https://www.figma.com/proto/O8HMnbpqoIwveqbgE6tAu0/Fundora_HIFI?node-id=5-61&t=AqHrJVaMGClM2Gjt-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=63%3A609&show-proto-sidebar=1)
+  [View Prototype on Figma](https://www.figma.com/proto/O8HMnbpqoIwveqbgE6tAu0/Fundora_HIFI?node-id=63-609&t=jugz0vJrlW8wp1un-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=63%3A609&show-proto-sidebar=1)
